@@ -1,5 +1,6 @@
 html {
   font-family: Helvetica;
+  text-align: center;
 }
 
 h1 {
@@ -10,7 +11,12 @@ h1 {
 
 .top {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
 }
+.site {
+  color: white;
+}
+
 
 h3 {
   font-size: 32px
@@ -23,4 +29,7 @@ h3 {
 
 p{
   font-size: 14px;
+}
+#bkgimage {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
